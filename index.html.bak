@@ -65,21 +65,22 @@
             <div class="work__text">
               <h3>Portfolio Template</h3>
               <p>
-                A free Open Source Portfolio for anyone to use for free.
+                My model library in Sketchfab.
+				You can download and view,use and edit all of the models.
               </p>
               <ul class="work__list">
-                <li>HTML</li>
-                <li>SCSS</li>
-                <li>JavaScript</li>
-                <li>Parcel</li>
+                <li>3d modeling</li>
+                <li>Texturing</li>
+                <li>Photogrametry scans</li>
+                <li>Engineering models</li>
               </ul>
 
               <div class="work__links">
-                <a href="https://nisar.surge.sh" target="_blank" class="link__text">
+                <a href="https://sketchfab.com/biserborislawow" target="_blank" class="link__text">
                   Visit Site <span>&rarr;</span>
                 </a>
-                <a href="https://github.com/nisarhassan12/portfolio" title="View Source Code" target="_blank">
-                  <img src="./images/github.svg" class="work__code" alt="GitHub">
+                <a href="https://sketchfab.com/biserborislawow" title="View Source Code" target="_blank">
+                  <img src="./images/sketchfab.svg" class="work__code" alt="Sketchfab">
                 </a>
               </div>
             </div>
@@ -209,20 +210,7 @@
     </div>
   </section>
   
-  <section class="contact" id="contact">
-    <div class="row">
-      <h2>Whatsapp</h2>
-      <div class="contact__info">
-        <p>
-          You can Whatsapp me at.
-        </p>
-        <!-- Replace the email with yours -->
-        <a href="Whatsapp" class="btn">https://wa.me/+905394138533</a>
-      </div>
-    </div>
-  </section>
 
-https://wa.me/+905394138533
   <!-- ***** Footer ***** -->
 
   <footer role="contentinfo" class="footer">
