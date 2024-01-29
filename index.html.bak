@@ -63,10 +63,10 @@
 
           <div class="work__box">
             <div class="work__text">
-              <h3>Portfolio Template</h3>
+              <h3>3d Modeling and Texturing</h3>
               <p>
                 My model library in Sketchfab.
-				You can download and view,use and edit all of the models.
+				You can download and view, use and edit all of the models.
               </p>
               <ul class="work__list">
                 <li>3d modeling</li>
@@ -85,7 +85,7 @@
               </div>
             </div>
             <div class="work__image-box">
-              <img src="./images/project-1.png" class="work__image" alt="Project 1" />
+              <img src="./images/SFmodels.png" class="work__image" alt="Project 1" />
             </div>
           </div>
 
