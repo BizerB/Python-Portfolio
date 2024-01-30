@@ -26,18 +26,14 @@
     <div class="row">
       <nav class="nav" role="navigation">
         <ul class="nav__items">
-          <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
-          <li class="nav__item"><a href="#clients" class="nav__link">Clients</a></li>
-		  <li class="nav__item"><a href="#clients" class="nav__link">Certificates</a></li>
-		  <li class="nav__item"><a href="#clients" class="nav__link">Experience</a></li>
-		  <li class="nav__item"><a href="#clients" class="nav__link">Skills</a></li>
-		  <li class="nav__item"><a href="#clients" class="nav__link">Engineering Code Of Ethics</a></li>
-          <li class="nav__item">
-            <a href="#about" class="nav__link">About</a>
-          </li>
-          <li class="nav__item">
-            <a href="#contact" class="nav__link">Contact</a>
-          </li>
+          <li class="nav__item">	<a href="#work" class="nav__link">Work</a>	</li>
+          <li class="nav__item">	<a href="#clients" class="nav__link">Clients</a>	</li>
+		  <li class="nav__item">	<a href="#certificate" class="nav__link">Certificates</a>	</li>
+		  <li class="nav__item">	<a href="#experience" class="nav__link">Experience</a>	</li>
+		  <li class="nav__item">	<a href="#skills" class="nav__link">Skills</a>	</li>
+		  <li class="nav__item">	<a href="#ecoe" class="nav__link">Engineering Code Of Ethics</a>	</li>
+          <li class="nav__item">	<a href="#about" class="nav__link">About</a>	</li>
+          <li class="nav__item">	<a href="#contact" class="nav__link">Contact</a>	</li>
         </ul>
       </nav>
     </div>
@@ -68,10 +64,9 @@
           <div class="work__box">
             <div class="work__text">
               <h3>3d Modeling and Texturing</h3>
-              <p>
-                My model library in Sketchfab.
-				You can download and view, use and edit all of the models.
-              </p>
+				<p> My model library in Sketchfab.
+				<p>All models are available for viewing, use and editing.
+				</p>
               <ul class="work__list">
                 <li>3d modeling</li>
                 <li>Texturing</li>
@@ -98,28 +93,26 @@
           <div class="work__box">
             <div class="work__text">
               <h3>3d CAD using Solidworks </h3>
-              <p>
-                My model library in Grabcad.
-				You can download and view, use and edit all of the models.
-              </p>
+				<p>My model library in Grabcad.
+				<p>All models are available for viewing, use and editing.
+				</p>
               <ul class="work__list">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Node</li>
-                <li>MongoDB</li>
+                <li>Solidwoks</li>
+                <li>Autocad</li>
+                <li>Inventor</li>
               </ul>
 
               <div class="work__links">
                 <a href="#" class="link__text">
                   Visit Site <span>&rarr;</span>
                 </a>
-                <a href="#">
-                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+                <a href="https://grabcad.com/biser.borislawow-1/models" target="_blank" class="link__text">
+                  <img src="./images/grabcad.svg" class="work__code" title="View Models Library" alt="Grabcad">
                 </a>
               </div>
             </div>
             <div class="work__image-box">
-              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
+              <img src="./images/grabcad.png" class="work__image" alt="Project 2" />
             </div>
           </div>
 		  
@@ -235,22 +228,19 @@
 	
 	<!-- ***** work experience ***** -->
 
-<section class="workxp" id="workxps">
+<section class="workxp" id="ecoe">
       <div class="row">
         <h2>Engineering Code Of Ethics</h2>
-			<p>	As a Professional Engineer, I dedicate my professional knowledge and skill to the advancement and betterment of human welfare.
-				I pledge:
-				To give the utmost of performance;
-				To participate in none but honest enterprise;
-				To live and work according to the laws of man and the highest standards of professional conduct;
-				To place service before profit, the honor and standing of the profession before personal advantage,
-				and the public welfare above all other considerations.
-				In humility and with need for Divine Guidance, I make this pledge.
-              </p>
-		
-        
+		<h3>Engineers' Creed (1954 Original Version)</h3>
+			<p>	As a Professional Engineer, I dedicate my professional knowledge and skill to the advancement and betterment of human welfare. 
+			<p>	I pledge: 
+			<p>	To give the utmost of performance; 
+			<p>	To participate in none but honest enterprise; 
+			<p>	To live and work according to the laws of man and the highest standards of professional conduct; 
+			<p>	To place service before profit, the honor and standing of the profession before personal advantage, and the public welfare above all other considerations. 
+			<p>	In humility and with need for Divine Guidance, I make this pledge.
+			</p>
     </section>
-A
 
     <!-- ***** About ***** -->
 

@@ -532,6 +532,81 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 /* --------------------------------------- */
+/* ----- Certificats ----- */
+/* --------------------------------------- */
+
+.certificat__logos {
+    display: flex;
+    justify-content: space-between;
+    filter: invert(100%) grayscale(100%) opacity(.8);
+}
+
+.certificat__logos {
+    height: 6.5rem;
+    max-width: 18rem;
+}
+
+@media(max-width: 1240px) {
+    .certificat__logos {
+        overflow-x: scroll;
+        padding: var(--gutter-normal);
+    }
+
+    .certificat__logos:not(:last-of-type) {
+        margin-right: var(--gutter-medium);
+    }
+}
+/* --------------------------------------- */
+/* ----- Experience ----- */
+/* --------------------------------------- */
+
+.experience__logos {
+    display: flex;
+    justify-content: space-between;
+    filter: invert(100%) grayscale(100%) opacity(.8);
+}
+
+.experience__logos {
+    height: 6.5rem;
+    max-width: 18rem;
+}
+
+@media(max-width: 1240px) {
+    .experience__logos {
+        overflow-x: scroll;
+        padding: var(--gutter-normal);
+    }
+
+    .experience__logos:not(:last-of-type) {
+        margin-right: var(--gutter-medium);
+    }
+}
+/* --------------------------------------- */
+/* ----- Skills ----- */
+/* --------------------------------------- */
+
+.skills__logos {
+    display: flex;
+    justify-content: space-between;
+    filter: invert(100%) grayscale(100%) opacity(.8);
+}
+
+.skills__logos {
+    height: 6.5rem;
+    max-width: 18rem;
+}
+
+@media(max-width: 1240px) {
+    .skills__logos {
+        overflow-x: scroll;
+        padding: var(--gutter-normal);
+    }
+
+    .skills__logos:not(:last-of-type) {
+        margin-right: var(--gutter-medium);
+    }
+}
+/* --------------------------------------- */
 /* ----- About ----- */
 /* --------------------------------------- */
 
