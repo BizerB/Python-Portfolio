@@ -72,7 +72,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background: var(--black,0.5);
     overflow-x: hidden;
 }
 
@@ -535,24 +535,24 @@ body:not(.user-is-tabbing) a:focus {
 /* ----- Certificats ----- */
 /* --------------------------------------- */
 
-.certificat__logos {
+.certificats__logos {
     display: flex;
     justify-content: space-between;
     filter: invert(100%) grayscale(100%) opacity(.8);
 }
 
-.certificat__logos {
+.certificats__logos {
     height: 6.5rem;
     max-width: 18rem;
 }
 
 @media(max-width: 1240px) {
-    .certificat__logos {
+    .certificats__logos {
         overflow-x: scroll;
         padding: var(--gutter-normal);
     }
 
-    .certificat__logos:not(:last-of-type) {
+    .certificats__logos:not(:last-of-type) {
         margin-right: var(--gutter-medium);
     }
 }
@@ -603,6 +603,31 @@ body:not(.user-is-tabbing) a:focus {
     }
 
     .skills__logos:not(:last-of-type) {
+        margin-right: var(--gutter-medium);
+    }
+}
+/* --------------------------------------- */
+/* ----- Engineering Code Of Ethics ----- */
+/* --------------------------------------- */
+
+.ecoe__logos {
+    display: flex;
+    justify-content: space-between;
+    filter: invert(100%) grayscale(100%) opacity(.8);
+}
+
+.ecoe__logos {
+    height: 6.5rem;
+    max-width: 18rem;
+}
+
+@media(max-width: 1240px) {
+    .ecoe__logos {
+        overflow-x: scroll;
+        padding: var(--gutter-normal);
+    }
+
+    .ecoe__logos:not(:last-of-type) {
         margin-right: var(--gutter-medium);
     }
 }

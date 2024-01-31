@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#e5e5e6" viewBox="0 0 512 512"><link id="dark-mode" rel="stylesheet" type="text/css"/><style id="dark-mode-custom-style" type="text/css"/><title>ionicons-v5_logos</title><path d="M496,109.5a201.8,201.8,0,0,1-56.55,15.3,97.51,97.51,0,0,0,43.33-53.6,197.74,197.74,0,0,1-62.56,23.5A99.14,99.14,0,0,0,348.31,64c-54.42,0-98.46,43.4-98.46,96.9a93.21,93.21,0,0,0,2.54,22.1,280.7,280.7,0,0,1-203-101.3A95.69,95.69,0,0,0,36,130.4C36,164,53.53,193.7,80,211.1A97.5,97.5,0,0,1,35.22,199v1.2c0,47,34,86.1,79,95a100.76,100.76,0,0,1-25.94,3.4,94.38,94.38,0,0,1-18.51-1.8c12.51,38.5,48.92,66.5,92.05,67.3A199.59,199.59,0,0,1,39.5,405.6,203,203,0,0,1,16,404.2,278.68,278.68,0,0,0,166.74,448c181.36,0,280.44-147.7,280.44-275.8,0-4.2-.11-8.4-.31-12.5A198.48,198.48,0,0,0,496,109.5Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg5"
+   x="0px"
+   y="0px"
+   viewBox="0 0 511.99998 512.00002"
+   xml:space="preserve"
+   sodipodi:docname="twitter.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13">
+	
+	
+</defs><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   width="512px"
+   inkscape:zoom="1.17754"
+   inkscape:cx="232.68849"
+   inkscape:cy="275.14989"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg5" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g
+   id="layer1"
+   transform="matrix(0.73837892,0,0,0.7889122,-321.33109,-245.47598)">
+		<path
+   id="path1009"
+   class="st1"
+   d="M 485.39,356.79 715.46,664.41 483.94,914.52 h 52.11 l 202.7,-218.98 163.77,218.98 h 177.32 L 836.82,589.6 1052.32,356.79 h -52.11 L 813.54,558.46 662.71,356.79 Z m 76.63,38.38 h 81.46 l 359.72,480.97 h -81.46 z" />
+	</g>
+</svg>
