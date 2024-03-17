@@ -207,7 +207,7 @@
 			  Every project is a chance to refine my skills and bring something fresh to the dynamic world of engineering and design.
             </p>
             <!-- Provide a link to your resume -->
-            <a href="contact" class="btn">Connect</a>
+            <a href="#contact" class="btn">Connect</a>
           </div>
 
           <div class="about__photo-container">
